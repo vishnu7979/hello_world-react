@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World (edited)
+          Hello World JK
         </a>
       </header>
     </div>
